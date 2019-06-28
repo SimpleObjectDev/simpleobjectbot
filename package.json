@@ -5,9 +5,9 @@
   "engines": {
     "node": "10.x"
   },
-  "main": "bot.js",
+  "main": "scamAware.js",
   "scripts": {
-    "start": "node bot.js",
+    "start": "node scamAware.js",
     "test": "node test.js"
   },
   "name": "discord.js",
